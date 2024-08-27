@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mood Tracker</string>
+    <string name="title_moods">Dziennik nastrojów</string>
+    <string name="title_addMood">Dodaj mood</string>
+    <string name="title_statistics">Statystyki</string>
+    <string name="navigation_drawer_open">Statystyki</string>
+    <string name="navigation_drawer_close">Statystyki</string>
+    <string name="mood_updated_successfully">Zmodyfikowano pomyślnie!</string>
+    <string name="mood_added_successfully">Dodano pomyslnie!</string>
+    <string name="sign_in_failed">Logowanie nieudane</string>
+    <string name="signed_in_as">Zalogowano jako</string>
+    <string name="unable_to_retrieve_idtoken">Autentykacja nie powiodła się</string>
+    <string name="rate_your_mood">"Oceń swój nastrój: "</string>
+    <string name="add_mood">Dodaj nastrój</string>
+    <string name="additional_description">Dodatkowy opis</string>
+    <string name="enter_description">Wpisz opis</string>
+    <string name="create_date">Data utworzenia</string>
+    <string name="i_noticed_disturbing_symptoms">Zauważyłem niepokojące objawy</string>
+    <string name="year">Rok</string>
+    <string name="month">Miesiąc</string>
+    <string name="week">Tydzień</string>
+    <string name="average_value">średnia wartość :</string>
+    <string name="minimum_value">minimalna wartość :</string>
+    <string name="maximum_value">maxymalna wartość :</string>
+    <string name="most_common_symptom">Najczęściej występujący symptom</string>
+    <string name="email">Email</string>
+    <string name="detailed_name">Szczegółowa nazwa</string>
+    <string name="user">Użytkownik</string>
+    <string name="notifications">Powiadomienia</string>
+    <string name="login">Zaloguj się</string>
+    <string name="log_out">Wyloguj się</string>
+    <string name="about">O aplikacji</string>
+    <string name="show_symptoms_previously_checked">Pokaż poprzednio zaznaczone symptomy</string>
+    <string name="show_description">Pokaż opis</string>
+    <string name="change_selected_mood">Zapisz zmiany</string>
+    <string name="edit_description">Edytuj opis</string>
+    <string name="most_common_symptom_2">Najczęściej wystepujący symptom</string>
+    <string name="average_value_n_a">średnia wartość: Niedostępna</string>
+    <string name="minimum_value_n_a">minimalna wartość: Niedostępna</string>
+    <string name="maximum_value_n_a">maksymalna wartość: Niedostępna</string>
+    <string name="average_value_2f">średnia wartość: %.2f</string>
+    <string name="minimum_value_2f">minimalna wartość: %.2f</string>
+    <string name="maximum_value_2f">maksymalna wartość: %.2f</string>
+    <string name="moods_entry">Nastroje</string>
+    <string name="mood_average_value">" średnia wartość nastroju "</string>
+    <string name="moods">Nastroje</string>
+    <string name="failed_to_retrieve_data">Nie udało się pobrać danych.</string>
+    <string name="user_not_logged_in">Użytkownik nie zalogowany.</string>
+    <string name="failed_to_add_mood">Nie udało się dodać nastroju.</string>
+    <string name="failed_to_update_mood">Nie udało się zmodyfikować.</string>
+    <string name="user_not_logged_in_or_mood_key_is_null">Autentykacja nieudana.</string>
+    <string name="mood_cannot_be_created_you_can_only_create_a_mood_once_every_15_minutes">Nie można utworzyć nastroju. Możesz utworzyć nastrój tylko raz co 15 minut.</string>
+    <string name="symptom_1">Skrajne ograniczanie ilości spożywanego pokarmu niespowodowane chorobą.</string>
+    <string name="symptom_2">Myślenie o jedzeniu, wadze i wyglądzie ciała.</string>
+    <string name="symptom_3">Nierealistyczne spojrzenie na własne ciało.</string>
+    <string name="symptom_4">Duża ilość jedzenia w krótkim czasie.</string>
+    <string name="symptom_5">Wymioty.</string>
+    <string name="symptom_6">Użycie środków przeczyszczających.</string>
+    <string name="symptom_7">Podejmuje działania żeby przywrócić poprzednią wagę</string>
+    <string name="symptom_8">Robię wszystko żeby nie przytyć</string>
+    <string name="symptom_9">Stres uczestnictwem w doświadczeniach społecznych związanych z jedzeniem</string>
+    <string name="symptom_10">Utrata kontroli nad ilością spożywanego pokarmu.</string>
+    <string name="symptom_11">Silne uczucie wstydu po obfitym posiłku.</string>
+    <string name="symptom_12">Częste sprawdzanie masy ciała w krótkim czasie</string>
+    <string name="symptom_13">Sprawdzanie obwodów ciała za pomocą taśmy mierniczej lub odbicia w lustrach</string>
+    <string name="symptom_14">Unikanie pewnych grup pokarmów lub kategorii żywności.</string>
+    <string name="symptom_15">Spożywanie substancji o niskiej wartości odżywczej lub nietypowych, takich jak glina, gips, włosy, papier itp.</string>
+    <string name="symptom_16">Trudności z połykaniem pokarmu niespowodowane chorobą.</string>
+    <string name="symptom_17">Uczucie zablokowania w gardle podczas jedzenia niespowodowane chorobą.</string>
+    <string name="symptom_18">Napady kaszlu lub duszenia się podczas posiłków niespowodowane chorobą.</string>
+    <string name="symptom_19">Ograniczam posiłki żeby wypić alkohol.</string>
+    <string name="symptom_20">Z diety eliminuje pokarmy wysoko przetworzone.</string>
+    <string name="set_rating_value_from_between_1_and_5">Wybierz wartość od 1 do 5</string>
+    <string name="delete_mood">Usuń</string>
+    <string name="mood_can_t_be_deleted">Nie można usunąć!</string>
+    <string name="mood_deleted_successfully">Usunięto pomyślnie!</string>
+    <string name="rating_counts">Ilość rekordów</string>
+    <string name="about_info">"\nMood Tracker: Twój Towarzysz w dobrym Samopoczuciu\n\n
+W dzisiejszym szybkim tempie życia dbanie o nasze zdrowie psychiczne i emocjonalne jest niezwykle ważne. Z myślą o tym została stworzona aplikacja „Mood Tracker”, która nie tylko pomaga śledzić i analizować nasze nastroje, ale także oferuje innowacyjne narzędzia do wykrywania potencjalnych zaburzeń odżywiania. Ta aplikacja staje się towarzyszem w podróży ku poprawie samopoczucia, dostarczając wsparcia i narzędzi niezbędnych do osiągnięcia równowagi emocjonalnej oraz zdrowego podejścia do żywienia.\n\n
+Dlaczego wybrać „Mood Tracker”?\n\n
+Śledzenie naszych nastrojów pozwala nam zrozumieć, jak różne czynniki wpływają na nasze codzienne samopoczucie. Aplikacja „Mood Tracker” umożliwia nam rejestrowanie naszych emocji w czasie rzeczywistym, tworząc spersonalizowany dziennik nastrojów. Dzięki temu możemy rozpoznać wzorce i związki między naszymi działaniami, otoczeniem a naszym samopoczuciem. To narzędzie umożliwia nam skuteczniejsze radzenie sobie ze stresem, wykrywanie potencjalnych problemów emocjonalnych i pracę nad naszym zdrowiem psychicznym.\n\n
+Innowacyjne Elementy Wykrywania Zaburzeń Odżywiania\n\n
+Jednym z unikalnych aspektów „Mood Tracker” jest zdolność do wykrywania potencjalnych zaburzeń odżywiania. Dzięki zaawansowanym algorytmom analizy zachowań aplikacja może zwracać uwagę na niezdrowe nawyki żywieniowe lub niebezpieczne zmiany w nawykach dietetycznych. To nie tylko zachęca użytkowników do bardziej świadomego podejścia do żywienia, ale także pełni rolę systemu wczesnego ostrzegania przed problemami zdrowotnymi.\n\n
+Główne Cechy Aplikacji:\n\n
+Śledzenie Nastrojów: Rejestruj codzienne emocje, twórz spersonalizowany dziennik nastrojów i identyfikuj wpływ różnych czynników na Twoje samopoczucie.\n\n
+Analiza Wzorców: Aplikacja umożliwia analizę długoterminowych wzorców nastrojów, pomagając lepiej zrozumieć swoją trajektorię emocjonalną.\n\n
+Wykrywanie Zaburzeń Odżywiania: Korzystając z zaawansowanych algorytmów, „Mood Tracker” może pomóc w identyfikowaniu potencjalnych problemów z nawykami żywieniowymi.\n\n
+Wsparcie Społecznościowe: Dołącz do społeczności użytkowników „Mood Tracker”, dziel się swoimi doświadczeniami i czerp inspirację od innych na drodze do poprawy samopoczucia.\n\n
+Porady i Zasoby: Aplikacja dostarcza również cenne porady i zasoby dotyczące zdrowego żywienia, zarządzania stresem oraz opieki nad zdrowiem psychicznym.\n\n
+Pamiętaj, że ten tekst jest tłumaczeniem oryginalnego opisu na język angielski. Oddaje on istotę treści, jednocześnie uwzględniając niuanse językowe.</string>
+    <string name="profile">Profil</string>
+    <string name="weight">"Waga: "</string>
+    <string name="height">"Wzrost: "</string>
+    <string name="edit">Edytuj</string>
+    <string name="hide_edit">Ukryj edycję</string>
+    <string name="last_update">"Ostatnia aktualizacja: "</string>
+    <string name="profile_is_not_available">Profil jest niedostępny</string>
+    <string name="email1">"Email: "</string>
+    <string name="detailed_name_prof">"Szczegółowe imię: "</string>
+    <string name="email_prof">"Email: "</string>
+
+    <string name="about1">Mood Tracker: Twój Towarzysz w Dobrej Samopoczucie</string>
+    <string name="about2">W dzisiejszym szybkim tempie życia dbanie o nasze zdrowie psychiczne i emocjonalne jest niezwykle ważne. Z myślą o tym została stworzona aplikacja „Mood Tracker”, która nie tylko pomaga śledzić i analizować nasze nastroje, ale także oferuje innowacyjne narzędzia do wykrywania potencjalnych zaburzeń odżywiania. Ta aplikacja staje się partnerem w podróży ku poprawie samopoczucia, oferując wsparcie i narzędzia niezbędne do osiągnięcia równowagi emocjonalnej oraz zdrowego podejścia do żywienia.</string>
+    <string name="about3">Dlaczego Wybrać „Mood Tracker”?</string>
+    <string name="about4">Śledzenie naszych nastrojów może pomóc nam zrozumieć, jak różne czynniki wpływają na nasze codzienne samopoczucie. Aplikacja „Mood Tracker” pozwala nam rejestrować nasze emocje w czasie rzeczywistym, tworząc spersonalizowany dziennik nastrojów. Dzięki temu możemy rozpoznać wzorce i połączenia między naszymi działaniami, otoczeniem a naszym stanem emocjonalnym. To narzędzie umożliwia nam lepsze radzenie sobie ze stresem, rozpoznawanie potencjalnych wyzwań emocjonalnych i pracę nad naszym zdrowiem psychicznym.</string>
+    <string name="about5">Innowacyjne Elementy Wykrywania Zaburzeń Odżywiania</string>
+    <string name="about6">Jednym z unikalnych aspektów „Mood Tracker” jest jego zdolność do wykrywania potencjalnych zaburzeń odżywiania. Korzystając z zaawansowanych algorytmów analizy zachowań, aplikacja może zwracać uwagę na niezdrowe nawyki żywieniowe lub niebezpieczne zmiany w nawykach dietetycznych. To nie tylko zachęca użytkowników do bardziej świadomego podejścia do żywienia, ale także pełni rolę systemu wczesnego ostrzegania przed problemami zdrowotnymi.</string>
+    <string name="about7">Główne Cechy Aplikacji:</string>
+    <string name="about8">Śledzenie Nastrojów: Rejestruj codzienne emocje, twórz spersonalizowany dziennik nastrojów i identyfikuj wpływ różnych czynników na Twoje samopoczucie.\n</string>
+    <string name="about9">Analiza Wzorców: Aplikacja umożliwia analizę długoterminowych wzorców nastrojów, co pomaga lepiej zrozumieć swoją trajektorię emocjonalną.\n</string>
+    <string name="about10">Wykrywanie Zaburzeń Odżywiania: Korzystając z zaawansowanych algorytmów, „Mood Tracker” może pomóc w identyfikowaniu potencjalnych problemów z nawykami żywieniowymi.\n</string>
+    <string name="notifications_title">Wczesne ostrzeżenia</string>
+    <string name="profile_title">Profil użytkownika</string>
+    <string name="anorexia">
+    <![CDATA[
+    Wczesne ostrzeżenie - Podejrzenie zaburzenia odżywiania:
+    Anoreksja to poważne zaburzenie odżywiania. Charakteryzuje się obsesyjnym strachem przed przybraniem na wadze i ograniczaniem spożycia jedzenia. Osoby z anoreksją często postrzegają siebie jako nadwagę, nawet jeśli są zbyt chude. To może prowadzić do poważnych problemów zdrowotnych, takich jak niedożywienie i osłabienie organizmu.
+
+    Przydatne linki:
+    - [Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania (Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania)](https://www.nazaburzeniaodzywiania.pl/)
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NHS - Anoreksja](https://www.nhs.uk/conditions/anorexia/)
+    ]]>
+</string>
+
+    <string name="bulimia">
+    <![CDATA[
+    Wczesne ostrzeżenie - Podejrzenie zaburzenia odżywiania:
+    Bulimia to zaburzenie odżywiania. Polega na naprzemiennym objadaniu się dużą ilością jedzenia, a następnie próbie pozbycia się kalorii poprzez wymioty, stosowanie środków przeczyszczających lub nadmierną aktywność fizyczną. Osoby z bulimią mogą doświadczać wahań wagi oraz poważnych problemów zdrowotnych związanych z nadmiernym obciążeniem organizmu.
+
+    Przydatne linki:
+    - [Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania (Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania)](https://www.nazaburzeniaodzywiania.pl/)
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NHS - Bulimia](https://www.nhs.uk/conditions/bulimia/)
+    ]]>
+</string>
+
+    <string name="binge">
+    <![CDATA[
+    Wczesne ostrzeżenie - Podejrzenie zaburzenia odżywiania:
+    Zaburzenie kompulsywnego objadania się, znane również jako Binge Eating Disorder (BED). Charakteryzuje się częstym spożywaniem dużych ilości jedzenia, często bez kontroli nad ilością spożywanego pożywienia. Osoby z tym zaburzeniem mogą doświadczać wahań wagi i problemów zdrowotnych związanych z nadmiernym spożywaniem kalorii.
+
+    Przydatne linki:
+    - [Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania (Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania)](https://www.nazaburzeniaodzywiania.pl/)
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NHS - Zaburzenie kompulsywnego objadania się (Binge Eating)](https://www.nhs.uk/conditions/binge-eating/)
+    ]]>
+</string>
+
+    <string name="drunkorexia">
+    <![CDATA[
+    Wczesne ostrzeżenie - Podejrzenie zaburzenia odżywiania:
+    Drunkoreksja to niezdrowa praktyka. Polega na ograniczaniu spożycia kalorii w ciągu dnia w celu zrekompensowania ich podczas picia alkoholu. To może prowadzić do zaburzeń odżywiania, alkoholizmu i znacznych zagrożeń zdrowotnych.
+
+    Przydatne linki:
+    - [Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania (Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania)](https://www.nazaburzeniaodzywiania.pl/)
+    - [Verywell Mind - Drunkoreksja](https://www.verywellmind.com/what-is-drunkorexia-4771833)
+    ]]>
+</string>
+
+    <string name="arfid">
+    <![CDATA[
+    Wczesne ostrzeżenie - Podejrzenie zaburzenia odżywiania:
+    ARFID (Avoidant/Restrictive Food Intake Disorder) . To zaburzenie charakteryzuje się unikaniem lub ograniczaniem spożycia określonych grup pokarmów, tekstur lub smaków. Osoby z ARFID mogą mieć ograniczony wybór żywności i często doświadczają niedożywienia i problemów zdrowotnych związanych z brakiem różnorodności w diecie.
+
+    Przydatne linki:
+    - [Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania (Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania)](https://www.nazaburzeniaodzywiania.pl/)
+    - [Eating Disorder Hope - ARFID](https://www.eatingdisorderhope.com/blog/avoidant-restrictive-food-intake-disorder-arfid)
+    ]]>
+</string>
+
+    <string name="pica">
+    <![CDATA[
+    Wczesne ostrzeżenie - Podejrzenie zaburzenia odżywiania:
+    Pika to zaburzenie. Charakteryzuje się spożywaniem substancji nieżywnościowych, takich jak papier, glina czy kreda. To zachowanie może prowadzić do poważnych problemów zdrowotnych i niedoborów pokarmowych.
+
+    Przydatne linki:
+    - [Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania (Narodowe Stowarzyszenie na rzecz Zaburzeń Odżywiania)](https://www.nazaburzeniaodzywiania.pl/)
+    - [NCBI - Pika](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303863/)
+    ]]>
+</string>
+
+
+</resources>

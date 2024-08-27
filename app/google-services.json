@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885522632913",
+    "firebase_url": "https://mood-tracker-eating-diso-be341-default-rtdb.firebaseio.com",
+    "project_id": "mood-tracker-eating-diso-be341",
+    "storage_bucket": "mood-tracker-eating-diso-be341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885522632913:android:e74271f715b3d7dfca75f0",
+        "android_client_info": {
+          "package_name": "com.wb.moodtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885522632913-kihea2ji9sntij0qc0eilql7h5vtmq2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wb.moodtracker",
+            "certificate_hash": "fa05f1a86bd6cfd743b29147627c1074cfc60c16"
+          }
+        },
+        {
+          "client_id": "885522632913-lb2b83s2ngbil106lk4ka6083ssop9c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJtCwR6UXa90vH2BcEWNTsrv0H-AfMqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885522632913-fhqe6qohn17uo56imqmp1mg6on6oei32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

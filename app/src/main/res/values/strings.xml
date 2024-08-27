@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Mood Tracker</string>
+    <string name="title_moods">Moods</string>
+    <string name="title_addMood">Add mood</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="navigation_drawer_open">Statistics</string>
+    <string name="navigation_drawer_close">Statistics</string>
+    <string name="mood_updated_successfully">Mood updated successfully!</string>
+    <string name="mood_added_successfully">Mood added successfully!</string>
+    <string name="sign_in_failed">Sign-In failed</string>
+    <string name="signed_in_as">"Signed in as "</string>
+    <string name="unable_to_retrieve_idtoken">Unable to retrieve idToken</string>
+    <string name="rate_your_mood">Rate your mood:</string>
+    <string name="add_mood">Add Mood</string>
+    <string name="additional_description">Additional description</string>
+    <string name="enter_description">Enter description</string>
+    <string name="create_date">Create Date</string>
+    <string name="i_noticed_disturbing_symptoms">I noticed disturbing symptoms</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="average_value">average value :</string>
+    <string name="minimum_value">minimum value :</string>
+    <string name="maximum_value">maximum value :</string>
+    <string name="most_common_symptom">Most Common Symptom :</string>
+    <string name="email">Email</string>
+    <string name="detailed_name">Detailed name</string>
+    <string name="user">User</string>
+    <string name="notifications">Notifications</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log out</string>
+    <string name="about">About</string>
+    <string name="show_symptoms_previously_checked">Show symptoms previously checked</string>
+    <string name="show_description">Show description</string>
+    <string name="change_selected_mood">Change selected Mood</string>
+    <string name="edit_description">Edit description</string>
+    <string name="most_common_symptom_2">"Most Common Symptom: "</string>
+    <string name="average_value_n_a">average value: N/A</string>
+    <string name="minimum_value_n_a">minimum value: N/A</string>
+    <string name="maximum_value_n_a">maximum value: N/A</string>
+    <string name="average_value_2f">average value: %.2f</string>
+    <string name="minimum_value_2f">minimum value: %.2f</string>
+    <string name="maximum_value_2f">maximum value: %.2f</string>
+    <string name="moods_entry">Moods</string>
+    <string name="mood_average_value">" mood average value: "</string>
+    <string name="moods">Moods</string>
+    <string name="failed_to_retrieve_data">Failed to retrieve data.</string>
+    <string name="user_not_logged_in">User not logged in.</string>
+    <string name="failed_to_add_mood">Failed to add mood.</string>
+    <string name="failed_to_update_mood">Failed to update mood.</string>
+    <string name="user_not_logged_in_or_mood_key_is_null">User not logged in or mood key is null.</string>
+    <string name="mood_cannot_be_created_you_can_only_create_a_mood_once_every_15_minutes">Mood cannot be created. You can only create a mood once every 15 minutes.</string>
+    <string name="symptom_1">Extreme restriction of food intake unrelated to illness.</string>
+    <string name="symptom_2">Thinking about food, weight, and body appearance.</string>
+    <string name="symptom_3">Unrealistic perception of own body</string>
+    <string name="symptom_4">Consuming a large amount of food in a short period.</string>
+    <string name="symptom_5">Vomiting.</string>
+    <string name="symptom_6">Use of laxatives</string>
+    <string name="symptom_7">Taking actions to revert to previous weight</string>
+    <string name="symptom_8">Doing everything to avoid gaining weight</string>
+    <string name="symptom_9">Stress related to participating in social eating experiences</string>
+    <string name="symptom_10">Loss of control over the amount of food consumed.</string>
+    <string name="symptom_11">Strong feeling of shame after a large meal.</string>
+    <string name="symptom_12">Frequent checking of body weight in a short period</string>
+    <string name="symptom_13">Checking body measurements using a measuring tape or mirror reflections</string>
+    <string name="symptom_14">Avoiding certain food groups or categories.</string>
+    <string name="symptom_15">Consuming substances of low nutritional value or unusual items like clay, plaster, hair, paper, etc.</string>
+    <string name="symptom_16">Difficulty swallowing food unrelated to illness.</string>
+    <string name="symptom_17">Feeling of blockage in the throat while eating unrelated to illness.</string>
+    <string name="symptom_18">Coughing or choking during meals unrelated to illness.</string>
+    <string name="symptom_19">Restricting meals to drink alcohol.</string>
+    <string name="symptom_20">Eliminating highly processed foods from the diet.</string>
+    <string name="set_rating_value_from_between_1_and_5">Set rating value from between 1 and 5</string>
+    <string name="delete_mood">Delete mood</string>
+    <string name="mood_can_t_be_deleted">Mood can\'t be deleted</string>
+    <string name="mood_deleted_successfully">Mood deleted successfully</string>
+    <string name="rating_counts">Rating Counts</string>
+    <string name="about_info">"\n            Mood Tracker: Your Companion in Well-being\n            \n            In today's fast-paced life, taking care of our mental and emotional health is incredibly important. With this in mind, the \"Mood Tracker\" app was created, which not only helps track and analyze our moods but also offers innovative tools for detecting potential eating disorders. This application becomes a companion on the journey to improved well-being, providing the support and tools needed to achieve emotional balance and a healthy approach to nutrition.\n            \n            Why \"Mood Tracker\"?\n            \n            Tracking our moods can help us understand how various factors impact our daily well-being. The \"Mood Tracker\" app allows us to record our emotions in real-time, creating a personalized mood journal. This enables us to identify patterns and associations between our activities, environment, and our well-being. This tool empowers us to better cope with stress, detect potential emotional issues, and work on our mental well-being.\n            \n            Innovative Eating Disorder Detection Elements\n            \n            One of the unique aspects of \"Mood Tracker\" is its ability to detect potential eating disorders. Using advanced behavior analysis algorithms, the app can pay attention to unhealthy eating habits or dangerous changes in dietary habits. This not only enables users to adopt a more conscious approach to nutrition but can also serve as an early warning for health-related problems.\n            \n            Key Features of the App:\n            \n            Mood Tracking: Record your daily emotions, create a personalized mood journal, and identify the impact of various factors on your well-being.\n            \n            Pattern Analysis: The app allows for the analysis of long-term mood patterns, aiding in a better understanding of your emotional trajectory.\n            \n            Eating Disorder Detection: Leveraging advanced algorithms, \"Mood Tracker\" can assist in identifying potential issues related to dietary habits.\n            \n            </string>
+    <string name="about1">Mood Tracker: Your Companion in Well-being</string>
+    <string name="about2">In today\'s fast-paced life, taking care of our mental and emotional health is incredibly important. With this in mind, the \"Mood Tracker\" app was created, designed not only to help monitor and analyze our moods but also to provide innovative tools for detecting potential eating disorders. This application becomes a partner on the journey to improved well-being, offering the support and tools necessary to achieve emotional balance and a healthy approach to nutrition.</string>
+    <string name="about3">Why Choose \"Mood Tracker\"?</string>
+    <string name="about4">Tracking our moods can help us understand how various factors impact our daily well-being. The \"Mood Tracker\" app allows us to record our emotions in real-time, creating a personalized mood journal. This enables us to identify patterns and connections between our activities, surroundings, and our emotional state. This tool empowers us to better cope with stress, identify potential emotional challenges, and work on our mental well-being.</string>
+    <string name="about5">Innovative Eating Disorder Detection Features</string>
+    <string name="about6">One of the unique aspects of \"Mood Tracker\" is its ability to detect potential eating disorders. Utilizing advanced behavior analysis algorithms, the app can draw attention to unhealthy eating habits or dangerous changes in dietary behaviors. This not only encourages users to adopt a more mindful approach to nutrition but also serves as an early warning system for health issues.</string>
+    <string name="about7">Key Features of the Application:</string>
+    <string name="about8">Mood Tracking: Log your daily emotions, create a personalized mood journal, and identify the influence of various factors on your well-being.\n</string>
+    <string name="about9">Pattern Analysis: The app enables the analysis of long-term mood patterns, aiding in better understanding your emotional trajectory.\n</string>
+    <string name="about10">Eating Disorder Detection: Leveraging sophisticated algorithms, \"Mood Tracker\" can assist in identifying potential issues related to eating habits.\n</string>
+    <string name="profile">Profile</string>
+    <string name="weight">"Weight: "</string>
+    <string name="height">"Height: "</string>
+    <string name="edit">Edit</string>
+    <string name="hide_edit">Hide edit</string>
+    <string name="last_update">"Last update: "</string>
+    <string name="profile_is_not_available">Profile is not available</string>
+    <string name="email1">"Email: "</string>
+    <string name="detailed_name_prof">"Detailed name: "</string>
+    <string name="email_prof">"Email : "</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="profile_title">Profile</string>
+    <string name="kg">" kg"</string>
+    <string name="cm">" cm"</string>
+    <string name="anorexia">
+    <![CDATA[
+    Early Warning - Suspected Eating Disorder:
+    Anorexia nervosa is a serious eating disorder that serves as an early warning sign. It is characterized by an obsessive fear of gaining weight and a restriction of food intake. Individuals with anorexia often perceive themselves as overweight, even if they are underweight. This can lead to severe health problems, such as malnutrition and physical weakness.
+
+    Helpful Links:
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NHS - Anorexia](https://www.nhs.uk/conditions/anorexia/)
+    ]]>
+</string>
+
+    <string name="bulimia">
+    <![CDATA[
+    Early Warning - Suspected Eating Disorder:
+    Bulimia nervosa is an eating disorder that serves as an early warning sign. It involves binge-eating large amounts of food, followed by attempts to purge calories through vomiting, the use of laxatives, or excessive physical activity. People with bulimia may experience weight fluctuations and serious health issues related to the strain on their bodies.
+
+    Helpful Links:
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NHS - Bulimia](https://www.nhs.uk/conditions/bulimia/)
+    ]]>
+</string>
+
+    <string name="binge">
+    <![CDATA[
+    Early Warning - Suspected Eating Disorder:
+    Binge Eating Disorder (BED) serves as an early warning sign. It is characterized by frequent consumption of large quantities of food, often without control over the amount eaten. Individuals with this disorder may experience weight fluctuations and health problems associated with excessive calorie consumption.
+
+    Helpful Links:
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NHS - Binge Eating](https://www.nhs.uk/conditions/binge-eating/)
+    ]]>
+</string>
+
+    <string name="drunkorexia">
+    <![CDATA[
+    Early Warning - Suspected Eating Disorder:
+    Drunkorexia is an unhealthy practice that serves as an early warning sign. It involves calorie restriction during the day to compensate for calories consumed through alcohol consumption. This can lead to eating disorders, alcoholism, and significant health risks.
+
+    Helpful Links:
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [Verywell Mind - Drunkorexia](https://www.verywellmind.com/what-is-drunkorexia-4771833)
+    ]]>
+</string>
+
+    <string name="arfid">
+    <![CDATA[
+    Early Warning - Suspected Eating Disorder:
+    ARFID serves as an early warning sign. It is a disorder characterized by avoidance or restriction of certain types of food, textures, or tastes. Individuals with ARFID may have a limited food selection and often experience malnutrition and health issues due to the lack of dietary variety.
+
+    Helpful Links:
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [Eating Disorder Hope - ARFID](https://www.eatingdisorderhope.com/blog/avoidant-restrictive-food-intake-disorder-arfid)
+    ]]>
+</string>
+
+    <string name="pica">
+    <![CDATA[
+    Early Warning - Suspected Eating Disorder:
+    Pica is an eating disorder that serves as an early warning sign. It is characterized by the consumption of non-food substances, such as paper, clay, or chalk. This behavior can lead to serious health problems and nutritional deficiencies.
+
+    Helpful Links:
+    - [National Eating Disorders Association (NEDA)](https://www.nationaleatingdisorders.org/)
+    - [NCBI - Pica](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303863/)
+    ]]>
+</string>
+
+
+
+</resources>
